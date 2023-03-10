@@ -184,7 +184,7 @@ Gemaakt met [Draw.io](https://app.diagrams.net/):
 
 This Project is [WinterValley](www.wintervalleyfestival.com) Licensed
 
-Partner with [ID&T](https://www.id-t.com)
+
 
 <br/>
 
